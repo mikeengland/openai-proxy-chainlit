@@ -1,6 +1,6 @@
 # openai-proxy-chainlit
 
-A Chainlit UI to test out the openai-proxy. This can be run via:
+A Chainlit UI to test out the [openai-proxy](https://github.com/mikeengland/openai-proxy). This can be run via:
 
 ```commandline
 export OPENAI_API_KEY=xyz
